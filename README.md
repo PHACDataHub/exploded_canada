@@ -28,4 +28,4 @@ Canada_T_Hex, but the hexs are now dissolved.
 
 cartogram of canadian provinces where size is same for all provinces
 
-![](Canada_cartogram.PNG)
+![](canada_cartogram.png)
