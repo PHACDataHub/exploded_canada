@@ -22,3 +22,10 @@ Canada_T but each province now has an equal number of Hexs..
 Canada_T_Hex, but the hexs are now dissolved. 
 
 ![](canada_t_hex_dis.PNG)
+
+
+### Canada_cartogram
+
+cartogram of canadian provinces where size is same for all provinces
+
+![](Canada_cartogram.PNG)
